@@ -1,6 +1,6 @@
 Análise de estatística descritiva aplicada aos datasets Titanic e Eleições Brasileiras — MBA em Data Science, UNIFOR.
 
-# 📊 Estatística Descritiva — Trabalho Final
+# 📊 Estatística Descritiva
 
 **Disciplina:** Estatística Descritiva  
 **Professor:** Hygor Piaget M. Melo  
